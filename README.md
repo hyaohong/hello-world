@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+hi guys!
+
+hyaohong here, I don't like coding!
